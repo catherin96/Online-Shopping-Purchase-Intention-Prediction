@@ -8,7 +8,7 @@ This repository contains the dataset, analysis code, and report for predicting O
 
 ## Prerequisites
 - R (v4.x or later)
-- R libraries: rsample, modeldata, mclust, ISLR2, tidyverse, caret, lattice, rpart.plot, readr, lubridate, ggplot2, ranger"
+- R libraries: rsample, modeldata, mclust, ISLR2, tidyverse, caret, lattice, rpart.plot, readr, lubridate, ggplot2, ranger
 
 ## Running the Code
 Run the 'Project3_Online Shopping Purchase Intention Prediction' script in the 'src/' folder to reproduce the analysis and visualizations.
